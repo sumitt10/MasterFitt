@@ -4,4 +4,4 @@ Awesome Designing is there with the help of tailwind libraries which make an web
 Tech Used : Tailwind CSS 
 <br>
 * Supports all the modes such as Desktop , tablet , phone etc. ( Responsive ) <br>
-Live link : <a href="https://sumitt10.github.io/MasterFitt/> MasterFitt </a>
+Live link : <a href="https://sumitt10.github.io/MasterFitt/"> MasterFitt </a>
